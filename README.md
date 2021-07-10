@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Msamuelsons
-- 👀 I’m interested in web
-- 🌱 I’m currently learning Javascript
+# Hi, I'm Samuel! :D
+![alt text](https://www.otempo.com.br/image/contentid/policy:1.2226189:1566580322/a%20era%20do%20gelo.PNG?f=3x2&w=620&$p$f$w=d63fd6d)
 
-<!---
-Msamuelsons/Msamuelsons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
