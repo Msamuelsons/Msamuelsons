@@ -23,9 +23,8 @@ I am student web looking for opportunities and collabaration in projects related
 
 
 
-<p>
+
   <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Msamuelsons&layout=compact&theme=dracula">
 
   
-</p>
