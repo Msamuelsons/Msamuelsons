@@ -26,5 +26,10 @@ I am student web looking for opportunities and collabaration in projects related
    <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula" width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Msamuelsons&layout=compact&theme=dracula" width="35%"></p>
+
+    
+</p>
+<p>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </p>
 
