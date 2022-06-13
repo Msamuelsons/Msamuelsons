@@ -3,7 +3,7 @@
 I am student web looking for opportunities and collabaration in projects related to frontend and backend.
 - 🔭 Always looking to learn, even when I make mistakes.
 - 🌱 I'm looking to collaborate on virtual reality, web 3D and front-end projects.
-- 🤝 Always looking to learn, same making several bugs in this process. 
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 
 ## Skills
@@ -22,9 +22,9 @@ I am student web looking for opportunities and collabaration in projects related
 ![FIGMA Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
+<p align="center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula" width="55%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Msamuelsons&layout=compact&theme=dracula" width="35%"></p>
+</p>
 
-
-  <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Msamuelsons&layout=compact&theme=dracula">
-
-  
