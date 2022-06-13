@@ -32,4 +32,7 @@ I am student web looking for opportunities and collabaration in projects related
 
 ![Snake animation](https://github.com/Msamuelsons/Msamuelsons/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <em> "always looking for horizons"</em>
+</p>
 
