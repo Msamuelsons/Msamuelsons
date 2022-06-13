@@ -29,7 +29,7 @@ I am student web looking for opportunities and collabaration in projects related
 
     
 </p>
-<p>
-  ![Snake animation](https://github.com/Msamuelsons/Msamuelsons/blob/output/github-contribution-grid-snake.svg)
-</p>
+
+![Snake animation](https://github.com/Msamuelsons/Msamuelsons/blob/output/github-contribution-grid-snake.svg)
+
 
