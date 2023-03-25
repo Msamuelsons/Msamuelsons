@@ -21,7 +21,7 @@ I am student web looking for opportunities and collabaration in projects related
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![FIGMA Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+![]([http://github-profile-summary-cards](https://github.com/Msamuelsons).vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=blueberry)
 <p align="center">
    <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula" width="55%">
 &nbsp; &nbsp; &nbsp; &nbsp;
