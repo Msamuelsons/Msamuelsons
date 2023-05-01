@@ -33,6 +33,6 @@ I am student web looking for opportunities and collabaration in projects related
 ![Snake animation](https://github.com/Msamuelsons/Msamuelsons/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <em> "Os oceanos veem o início do mundo"</em>
+  <em> "Honestidade em pequenas coisas nao é uma coisa pequena."</em>
 </p>
 
