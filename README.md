@@ -1,3 +1,4 @@
+![ray-so-export (1)](https://user-images.githubusercontent.com/35317517/235642189-052291b6-efaf-4831-bf68-075b98ce7fc4.png)
 
 ### Hi 👋
 I am student web looking for opportunities and collabaration in projects related to frontend and backend.
