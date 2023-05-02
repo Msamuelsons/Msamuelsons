@@ -1,10 +1,12 @@
-![ray-so-export (1)](https://user-images.githubusercontent.com/35317517/235642189-052291b6-efaf-4831-bf68-075b98ce7fc4.png)
 
 ### Hi 👋
 I am student web looking for opportunities and collabaration in projects related to frontend and backend.
 - 🔭 Always looking to learn, even when I make mistakes.
 - 🌱 I'm looking to collaborate on virtual reality, web 3D and front-end projects.
 - 🤝 I’m looking to collaborate on web motion projects. 
+
+![ray-so-export (1)](https://user-images.githubusercontent.com/35317517/235642189-052291b6-efaf-4831-bf68-075b98ce7fc4.png)
+
 
 
 ![]([http://github-profile-summary-cards](https://github.com/Msamuelsons).vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=blueberry)
