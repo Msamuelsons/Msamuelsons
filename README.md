@@ -9,14 +9,7 @@ I am student web looking for opportunities and collabaration in projects related
 
 
 
-![]([http://github-profile-summary-cards](https://github.com/Msamuelsons).vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=blueberry)
-<p align="center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=Msamuelsons&show_icons=true&theme=dracula" width="55%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Msamuelsons&layout=compact&theme=dracula" width="35%"></p>
 
-    
-</p>
 
 ![Snake animation](https://github.com/Msamuelsons/Msamuelsons/blob/output/github-contribution-grid-snake.svg)
 
